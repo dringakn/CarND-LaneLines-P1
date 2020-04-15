@@ -1,5 +1,5 @@
 # **Project: Finding Lane Lines on the Road** 
-![Example](/test_images/results/solidYellowLeft.png)
+![Example](./test_videos_output/solidYellowLeft.gif)
 Overview
 ---
 
@@ -10,7 +10,7 @@ The goal of this project is to find road lanes from a camera video/images. The s
 The following Jupyter notebook contains the solution [code](https://github.com/dringakn/CarND-LaneLines-P1/blob/master/P1.ipynb).
 
 ### Reflection
---- 
+---
 ### Image Processing Pipeline
 
 The road lines detection function takes as input an image. The image is pre-processed as follows
