@@ -14,13 +14,13 @@ The following Jupyter notebook contains the solution [code](https://github.com/d
 ### Image Processing Pipeline
 
 The road lines detection function takes as input an image. The image is pre-processed as follows
-1 - Convert the color image to a grayscale image.
-2 - Remove the noise within the image using a Gaussian blur filter.
-3 - Apply Canny edge detection on the filtered image.
-4 - Masked out the unwanted edges in a specified ROI.
-5 - Apply Hough transformation to detect lines.
-6 - Annotate the color image with detected lines.
-7 - Repeat the steps 1-6 for every frame of the video.
+* Convert the color image to a grayscale image.
+* Remove the noise within the image using a Gaussian blur filter.
+* Apply Canny edge detection on the filtered image.
+* Masked out the unwanted edges in a specified ROI.
+* Apply Hough transformation to detect lines.
+* Annotate the color image with detected lines.
+* Repeat the steps 1-6 for every frame of the video.
 
 ### Potential shortcomings with the current pipeline
 
