@@ -1,5 +1,5 @@
 # **Project: Finding Lane Lines on the Road** 
-![Example](/test_images/results/solidYellowCurve2.jpg)
+![Example](/test_images/results/solidYellowCurve2.png)
 Overview
 ---
 
